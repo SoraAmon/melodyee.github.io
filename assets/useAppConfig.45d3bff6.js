@@ -1,0 +1,1 @@
+import{f as e,r as t}from"./index.dd8bb1f5.js";import{a as o,k as p}from"./const.2bbfdb61.js";function m(a="default"){const[s]=e(),r=s.get("apk")||a;return t.exports.useMemo(()=>o[p.includes(r)?r:a],[a,r])}export{m as u};
