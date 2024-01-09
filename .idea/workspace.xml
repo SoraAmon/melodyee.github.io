@@ -1,23 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+  <component name="ChangeListManager">
+    <list default="true" id="43e4c702-23b8-4975-9ad4-e1a74586aa06" name="更改" comment="f">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RwnqDKej9E.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/answerStore.4ad86d34.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/appPrivacyAgreement.0bd72120.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/appUserAgreement.55f25b40.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/autoRenewAgreement.7ce38284.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/banner.8567f5e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bound.6bbb531d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bound.c50a4136.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/const.2bbfdb61.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hot_1.82b888d7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hot_2.da30becd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hot_3.9d1d5e77.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_enfj.a63c615b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_enfp.15b6cb9b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_entj.11456db5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_entp.4663a5ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_esfj.750125a9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_esfp.46b9b2b6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_estj.bdf24d91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_estp.1c510f82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_infj.6f0522db.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_infp.d82e8b66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_intj.1a236b05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_intp.768c8107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_isfj.def73c1f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_isfp.67a4e9e7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_istj.deba023a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_figure_istp.0737278c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_enfj.934b6541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_enfp.5d23dd7a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_entj.e998aa0e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_entp.2a73f38d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_esfj.00fd86e0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_esfp.503af0fd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_estj.e39c0be7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_estp.b9d398c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_infj.11c56f78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_infp.830a396c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_intj.ee4c8ede.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_intp.15169ba1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_isfj.981b2b83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_isfp.b0f49694.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_istj.5bd0a889.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_advantage_istp.a53dcc61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_character01.bb19015c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_character02.945f6fc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_enfj.4e414261.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_enfp.4e94fbc3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_entj.60a2d9a5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_entp.e65652d2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_esfj.327f6042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_esfp.66828e92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_estj.047fa5bc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_estp.653e1b2e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_infj.10e244bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_infp.17b244a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_intj.2684690e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_intp.6631dac9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_isfj.7dd75026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_isfp.833c68ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_istj.211bc881.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_disadvantage_istp.12a44996.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_emotion01.90e77fd5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_emotion02.c6f528fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_personality02.584ee6f4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_work_habits01.69cf028f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_illustration_work_habits02.f3ba1f1d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.02dced27.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.038f3d57.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.05bf68e1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.092cd42b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.0a61f616.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.115b38eb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.1384066d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.1402a6fc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.16ffdfb2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.1bd06baf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.1bfae5c9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.2144d1c9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.2b106ef9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.30e818db.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.342f38e3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.429aa65e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.4555c992.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.50d12dbe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.59d7c370.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.5d84bade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.5e09795b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.6381642d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.68877319.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.69d3eac1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.749ed2c8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.78a68520.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.7f7f128e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.801a50e2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.8632616d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.8b3f79d5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.8b416e71.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.9972b62a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.9a2a4fc4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.9e8ec75e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.9f70ef46.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.a2a972c0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.a3e801a8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.b78c6294.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.b97cf97c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.d59a539b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.d7498508.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.d976b12c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.dd8bb1f5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.e0096ad2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.ea44cc85.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.eccbec0f.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.es.2911e493.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.f1098d4b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.f2708f49.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.f9fd07f3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/list.1bcaed22.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/list.444a42f5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/list.99e64d0f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/list.bdcb6574.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/memberAgreement.f4467c22.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/previews.3fd92e5f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/privacyAgreement.6fddf0ac.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rechargeAgreement.60e7c245.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/request.8860cbf0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/use-isomorphic-update-layout-effect.b41ee6d6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/use-props-value.60860c44.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/useAppConfig.45d3bff6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/useCameraConfig.9e954265.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/userAgreement.cb3dd7d8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/web-vitals.a2d693e8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/wechat-xiaoxi.cd89d8df.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/camera-userAgreement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/camrea-agreement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loading--mbtity2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privacy-agreement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-agreement.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectViewState">
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;E:/code&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="ProjectId" id="2ahrnOjFcVsrrUbrUpT0CLJQDP1" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="43e4c702-23b8-4975-9ad4-e1a74586aa06" name="更改" comment="" />
+      <created>1704781818023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704781818023</updated>
+      <workItem from="1704781819068" duration="382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="f" />
+    <option name="LAST_COMMIT_MESSAGE" value="f" />
+  </component>
 </project>
